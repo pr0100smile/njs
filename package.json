@@ -1,0 +1,19 @@
+{
+  "name": "@pr0100smile/njs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr0100smile/njs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pr0100smile/njs/issues"
+  },
+  "homepage": "https://github.com/pr0100smile/njs#readme",
+  "description": ""
+}
